@@ -14,7 +14,7 @@ Led by **[Prof. Michal Schwartz](https://research.com/u/michal-schwartz)**
 
 ---
 ## Top Publications
----
+
 1. **A unique microglia type associated with restricting development of Alzheimer's disease**  
    Keren-Shaul H., Spinrad A., Weiner A., Matcovitch-Natan O., Dvir-Szternfeld R., Ulland T.K., David E., Baruch K., Lara-Astaiso D., Toth B., Itzkovitz S., Colonna M., **Schwartz M.**, & Amit I. (2017) *Cell*, 169(7), 1276–1290.
 
