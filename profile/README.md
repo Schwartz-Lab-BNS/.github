@@ -2,16 +2,6 @@ Welcome to the [Schwartz Lab](https://www.weizmann.ac.il/brain-sciences/labs/sch
 
 Led by **[Prof. Michal Schwartz](https://research.com/u/michal-schwartz)**
 
-
-## Lab Members
-**Postdoctoral Fellows & Research Associates:** Dr. Bar Nathansohn, Dr. Amitai Zuckerman , Dr. Alexander Kertser 
-
-**Lab Staff:** Hannah Partney , Rosemary Lavender
-
-**PhD Students:** [Yuliya Androsova](https://github.com/YuliyaAndrosova), Angham Ibraheem, [Bhakti Nagpurkar](https://github.com/bhakti-n)
-
-**MSc/Rotation Students:** [Shelly Gilad](https://github.com/ShellyGil)
-
 ---
 ## Top Publications
 
