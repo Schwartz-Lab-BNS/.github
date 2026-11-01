@@ -1,21 +1,17 @@
 Welcome to the [Schwartz Lab](https://www.weizmann.ac.il/brain-sciences/labs/schwartz/) GitHub page. Our research focuses on understanding the crosstalk between the brain and the immune system, pioneering immunotherapeutic approaches to combat neurodegenerative diseases, brain aging, and central nervous system injuries.
+
 Led by **[Prof. Michal Schwartz](https://research.com/u/michal-schwartz)**
 
----
-## Lab Members
 
-### Postdoctoral Fellows & Research Associates
-Dr. Bar Nathansohn, Dr. Amitai Zuckerman , Dr. Alexander Kertser 
-### Lab Staff
-Hannah Partney , Rosemary Lavender
-### PhD Students
-Yuliya Androsova (@YuliyaAndrosova), Angham Ibraheem , Bhakti Nagpurkar (@bhakti-n)
-### MSc / Rotation Students
-Shelly Gilad (@ShellyGil)
+## Lab Members
+**Postdoctoral Fellows & Research Associates:** Dr. Bar Nathansohn, Dr. Amitai Zuckerman , Dr. Alexander Kertser 
+**Lab Staff:** Hannah Partney , Rosemary Lavender
+**PhD Students:** [Yuliya Androsova](https://github.com/YuliyaAndrosova), Angham Ibraheem, [Bhakti Nagpurkar](https://github.com/bhakti-n)
+**MSc/Rotation Students:** [Shelly Gilad](https://github.com/ShellyGil)
 
 ---
 ## Top Publications
-
+---
 1. **A unique microglia type associated with restricting development of Alzheimer's disease**  
    Keren-Shaul H., Spinrad A., Weiner A., Matcovitch-Natan O., Dvir-Szternfeld R., Ulland T.K., David E., Baruch K., Lara-Astaiso D., Toth B., Itzkovitz S., Colonna M., **Schwartz M.**, & Amit I. (2017) *Cell*, 169(7), 1276–1290.
 
