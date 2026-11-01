@@ -2,7 +2,6 @@ Welcome to the [Schwartz Lab](https://www.weizmann.ac.il/brain-sciences/labs/sch
 Led by **[Prof. Michal Schwartz](https://research.com/u/michal-schwartz)**
 
 ---
-
 ## Lab Members
 
 ### Postdoctoral Fellows & Research Associates
@@ -15,7 +14,6 @@ Yuliya Androsova (@YuliyaAndrosova), Angham Ibraheem , Bhakti Nagpurkar (@bhakti
 Shelly Gilad (@ShellyGil)
 
 ---
-
 ## Top Publications
 
 1. **A unique microglia type associated with restricting development of Alzheimer's disease**  
